@@ -1,0 +1,19 @@
+
+body {
+  background-color: #f8bfbf;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: rgb(199, 185, 233);
+  background-color: #000;
+}
+ .card-body {
+  background-color: rgb(184, 224, 211);
+ }
